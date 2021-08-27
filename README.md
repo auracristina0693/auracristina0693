@@ -14,6 +14,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width:100%;">
 <div>
 
+<br/>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e6484ea9ad67691d5933004a4445c48a6dc9c7ba77fa0497719e6574d3d55eae/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f424c4c564c657453666f76626451374a69662f67697068792e676966"><img src="https://i.imgur.com/tGDnqxU.gif" width="20" data-canonical-src="https://media.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.gif" style="max-width:100%;"></a> Contact whit me: auracristina0693@gmail.com
 
 
 <!---
